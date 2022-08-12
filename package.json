@@ -5,7 +5,7 @@
     "description": "Launcher Minecraft de Maïplus",
     "main": "src/app.js",
     "author": "Luuxis, Kay",
-    "url": "http://launcher.selvania.fr",
+    "url": "launcher.hatasia.fr",
     "engines": {
         "node": "16.x.x"
     },
