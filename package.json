@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Launcher Minecraft de Maïplus",
     "main": "src/app.js",
-    "author": "Luuxis, Kay",
+    "author": "Kay",
     "url": "launcher.hatasia.fr",
     "engines": {
         "node": "16.x.x"
