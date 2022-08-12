@@ -12,6 +12,7 @@ const { ipcRenderer } = require('electron');
 
 import { config, logger, changePanel, database, addAccount, accountSelect } from './utils.js';
 import Login from './panels/login.js';
+import News from './panels/news.js';
 import Home from './panels/home.js';
 import Settings from './panels/settings.js';
 import skin from './panels/panelSkin.js';

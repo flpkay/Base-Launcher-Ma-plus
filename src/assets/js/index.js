@@ -49,7 +49,7 @@ class Splash {
             else this.checkUpdate();
         }).catch(e => {
             console.error(e);
-            return this.shutdown("Aucune connexion internet détectée,<br>veuillez réessayer ultérieurement.");
+            return this.shutdown("Nous avons buté un obstacle veuillez vous reconnectez plus tard.");
         })
     }
 
